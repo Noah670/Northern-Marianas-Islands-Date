@@ -20,12 +20,6 @@ import javax.swing.*;
 import java.awt.image.BufferedImage;
 import java.awt.Graphics;
 
-/* 
-*
-*Chamorro Standard Time (ChST) is 10 hours ahead of Coordinated Universal Time (UTC). This time zone is in use during standard time in: Pacific.
-*
-*
-*/
 
 public class NMI_Date {
 
