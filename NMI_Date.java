@@ -4,8 +4,9 @@
 *
 * CNMI & Guam
 *
-*@author Noah
+*@author Noah670
 *@version v1.0
+*
 */
 
 // imports for date and time
