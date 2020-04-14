@@ -3,6 +3,9 @@
 *Chamorro Standard Time (ChST) is 10 hours ahead of Coordinated Universal Time (UTC). This time zone is in use during standard time in: Pacific.
 *
 * CNMI & Guam
+*
+*@author Noah
+*@version v1.0
 */
 
 // imports for date and time
